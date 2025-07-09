@@ -1,0 +1,75 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"name": "maxOfThree",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contacts/program1.sol": "GreatestOfThree"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contacts/program1.sol": {
+			"keccak256": "0x39be1cf204d46be89d022c76846a8bd4a32f3e271ace960eb95ea93e03a1c1dd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b6fd9fa3fb95c37e3c1c1bb24a3e1b40c0e4384fd7f5c0221427f91ca6bf761e",
+				"dweb:/ipfs/QmUYRFXvKvzVzmQF5P2uNPLnVBDoKeE4r3B6wKgzzY38vf"
+			]
+		}
+	},
+	"version": 1
+}

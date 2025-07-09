@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					}
+				],
+				"name": "canVote",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contacts/vote.sol": "VotingCheck"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contacts/vote.sol": {
+			"keccak256": "0x6676c3184dc02f0dbe1d35682a38bf999df0bcf5751c0dac8c9339d64f664808",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://febfa4abad56c255132569e2bb90b4b6c23e269b2b618a774a2b823f40130fa9",
+				"dweb:/ipfs/QmRaQ2KPnSQ5TrxsMqHmxPvgba6pR3XAsx3RyoCHVh2Sog"
+			]
+		}
+	},
+	"version": 1
+}

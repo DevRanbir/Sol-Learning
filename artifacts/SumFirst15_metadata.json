@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getSum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/sum15.sol": "SumFirst15"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/sum15.sol": {
+			"keccak256": "0xc2166c460a6a24405835b72a3a561a83213fabaf92ae308d1993adf9fbef8162",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e914b9586181ae4f5d5db730e281a89c5847ace73444ebea3c90b8657105c194",
+				"dweb:/ipfs/QmarkwdA9UpApvdDymLHjtn2DLRo66hR854hYkNdqfpu3j"
+			]
+		}
+	},
+	"version": 1
+}
