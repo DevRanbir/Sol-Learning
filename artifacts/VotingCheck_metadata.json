@@ -38,7 +38,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contacts/vote.sol": "VotingCheck"
+			"contracts/vote.sol": "VotingCheck"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -52,7 +52,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contacts/vote.sol": {
+		"contracts/vote.sol": {
 			"keccak256": "0x6676c3184dc02f0dbe1d35682a38bf999df0bcf5751c0dac8c9339d64f664808",
 			"license": "MIT",
 			"urls": [

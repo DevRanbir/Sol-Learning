@@ -38,7 +38,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contacts/fac.sol": "Factorial"
+			"contracts/fac.sol": "Factorial"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -52,7 +52,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contacts/fac.sol": {
+		"contracts/fac.sol": {
 			"keccak256": "0xdfd98456c19e8b211111a149356c496168b03500ac99ebb517b82498762afa74",
 			"license": "MIT",
 			"urls": [
